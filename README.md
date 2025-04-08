@@ -16,7 +16,7 @@ By consolidating information about contributions, such as code commits, issue di
 - **Configuration Files**: Customize the appearance of the leaderboard using the `config` directory, which includes images and a theme CSS file.
 - **Custom CSS Theme**:Easily change the look and feel of the leaderboard.For Example,the [Modern Dark Theme](https://github.com/SatyaPriya-Sarika26/leaderboard-data/blob/main/config/theme.css)offers a stylish and accessible UI.
 - **Enhance Visual Experience**:Smooth transition,hover effects,and a modern layout make the leaderboard visually appealing while maintaining readability.
-congig/theme-dark.css
+config/theme-dark.css
   body {
 background-color: #121212;
 color:#f1f1f1;
